@@ -13,5 +13,8 @@ return array(
     'Raft\\Block_Styles' => $baseDir . '/inc/Block_Styles.php',
     'Raft\\Constants' => $baseDir . '/inc/Constants.php',
     'Raft\\Core' => $baseDir . '/inc/Core.php',
+    'Raft\\Dashboard' => $baseDir . '/inc/Dashboard.php',
+    'Raft\\Pro_Promotions' => $baseDir . '/inc/Pro_Promotions.php',
     'Raft\\Starter_Content' => $baseDir . '/inc/Starter_Content.php',
+    'Raft\\Wizard_Promo' => $baseDir . '/inc/Wizard_Promo.php',
 );
