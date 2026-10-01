@@ -9,7 +9,7 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"POT-Creation-Date: 2026-09-03T05:42:43+00:00\n"
+"POT-Creation-Date: 2026-10-01T08:00:59+00:00\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "X-Generator: WP-CLI 2.12.0\n"
 "X-Domain: raft\n"
@@ -57,76 +57,100 @@ msgstr ""
 msgid "You appear to be running the Raft theme from source code. Please finish installation by running %s."
 msgstr ""
 
-#: inc/Admin.php:65
+#: inc/Admin.php:66
 msgid "Dismiss"
 msgstr ""
 
-#: inc/Admin.php:66
+#: inc/Admin.php:67
 msgid "Raft recommends"
 msgstr ""
 
-#: inc/Admin.php:67
-#: inc/Admin.php:183
+#: inc/Admin.php:68
+#: inc/Admin.php:184
 msgid "Learn More"
 msgstr ""
 
 #. translators: %s: FSE Design Pack:
-#: inc/Admin.php:70
+#: inc/Admin.php:71
 #, php-format
 msgid "%s Access a collection of 40+ layout patterns ready to import to your website"
 msgstr ""
 
-#: inc/Admin.php:157
+#: inc/Admin.php:158
 msgid "Activating"
 msgstr ""
 
-#: inc/Admin.php:158
+#: inc/Admin.php:159
 msgid "Installing"
 msgstr ""
 
-#: inc/Admin.php:159
+#: inc/Admin.php:160
 msgid "Done"
 msgstr ""
 
-#: inc/Admin.php:167
+#: inc/Admin.php:168
 msgid "Otter Blocks preview"
 msgstr ""
 
 #. translators: %s: Otter Blocks
-#: inc/Admin.php:173
+#: inc/Admin.php:174
 msgid "Thanks for downloading Raft Theme 🎉"
 msgstr ""
 
 #. translators: %s: Otter Blocks
-#: inc/Admin.php:179
+#: inc/Admin.php:180
 msgid "Extend Raft with our Free Builder"
 msgstr ""
 
-#: inc/Admin.php:185
+#: inc/Admin.php:186
 msgid "Install our free builder plugin for more blocks, enhanced functionality, and seamless theme setup."
 msgstr ""
 
 #. translators: %s: Otter Blocks
-#: inc/Admin.php:196
+#: inc/Admin.php:197
 msgid "Try it out!"
 msgstr ""
 
 #. translators: %s: Otter Blocks
-#: inc/Admin.php:199
+#: inc/Admin.php:200
 #, php-format
 msgid "Activate %s"
 msgstr ""
 
 #. translators: %s: Otter Blocks
-#: inc/Admin.php:202
+#: inc/Admin.php:203
 #, php-format
 msgid "Install %s"
 msgstr ""
 
 #. translators: %1$s - plugin name, %2$s - HTML tag, %3$s - discount, %4$s - HTML tag, %5$s - company name.
-#: inc/Admin.php:427
+#: inc/Admin.php:428
 #, php-format
 msgid "Enhance %1$s with %2$s– up to %3$s OFF in our biggest sale of the year. Limited time only."
+msgstr ""
+
+#: inc/Admin.php:453
+msgid "change your colors and fonts"
+msgstr ""
+
+#: inc/Admin.php:454
+msgid "edit your header and footer"
+msgstr ""
+
+#: inc/Admin.php:455
+msgid "build pages from your theme's patterns"
+msgstr ""
+
+#: inc/Admin.php:458
+msgid "Apply the Raft style variation with the serif headings and keep my current colors."
+msgstr ""
+
+#: inc/Admin.php:459
+msgid "Add a call-to-action row with a button to my footer."
+msgstr ""
+
+#: inc/Admin.php:460
+msgid "Insert a pricing pattern from Raft into my Services page."
 msgstr ""
 
 #: inc/Block_Patterns.php:62
