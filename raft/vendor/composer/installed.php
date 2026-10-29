@@ -1,9 +1,9 @@
 <?php return array(
     'root' => array(
         'name' => 'codeinwp/raft',
-        'pretty_version' => 'v1.1.16',
-        'version' => '1.1.16.0',
-        'reference' => '2bdf1dfba5d0e4e0a659d19aa51188f4141b12c1',
+        'pretty_version' => 'v1.1.17',
+        'version' => '1.1.17.0',
+        'reference' => '5feceec056f12a4f3a3fa2cc72c562160cd0f3a1',
         'type' => 'project',
         'install_path' => __DIR__ . '/../../',
         'aliases' => array(),
@@ -11,18 +11,18 @@
     ),
     'versions' => array(
         'codeinwp/raft' => array(
-            'pretty_version' => 'v1.1.16',
-            'version' => '1.1.16.0',
-            'reference' => '2bdf1dfba5d0e4e0a659d19aa51188f4141b12c1',
+            'pretty_version' => 'v1.1.17',
+            'version' => '1.1.17.0',
+            'reference' => '5feceec056f12a4f3a3fa2cc72c562160cd0f3a1',
             'type' => 'project',
             'install_path' => __DIR__ . '/../../',
             'aliases' => array(),
             'dev_requirement' => false,
         ),
         'codeinwp/themeisle-sdk' => array(
-            'pretty_version' => '3.3.65',
-            'version' => '3.3.65.0',
-            'reference' => 'f650fe856d52ce4e5754557d89ba2f3127ad54d8',
+            'pretty_version' => '3.3.68',
+            'version' => '3.3.68.0',
+            'reference' => '8477d5100ffdddd316a3e51129d775d8854d8a77',
             'type' => 'library',
             'install_path' => __DIR__ . '/../codeinwp/themeisle-sdk',
             'aliases' => array(),
